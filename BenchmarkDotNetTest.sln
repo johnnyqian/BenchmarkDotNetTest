@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpanTest", "SpanTest\SpanTest.csproj", "{83A771F8-2711-40F2-ADCD-E446BAE25FC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTaskTest", "ValueTaskTest\ValueTaskTest.csproj", "{685F31ED-F91D-4ECC-ACD1-E6CB28E2B9A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueTaskTest", "ValueTaskTest\ValueTaskTest.csproj", "{685F31ED-F91D-4ECC-ACD1-E6CB28E2B9A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Md5VsSha256Test", "Md5VsSha256Test\Md5VsSha256Test.csproj", "{4ABDCCA4-F707-4484-BEC3-ACC7C7F56B48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{685F31ED-F91D-4ECC-ACD1-E6CB28E2B9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{685F31ED-F91D-4ECC-ACD1-E6CB28E2B9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{685F31ED-F91D-4ECC-ACD1-E6CB28E2B9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABDCCA4-F707-4484-BEC3-ACC7C7F56B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABDCCA4-F707-4484-BEC3-ACC7C7F56B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABDCCA4-F707-4484-BEC3-ACC7C7F56B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABDCCA4-F707-4484-BEC3-ACC7C7F56B48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
